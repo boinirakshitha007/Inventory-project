@@ -1,0 +1,13 @@
+Inventory Management
+
+Product: Laptop
+Quantity: 10
+Price: 50000
+
+Product: Keyboard
+Quantity: 20
+Price: 1000
+
+Product: Mouse
+Quantity: 25
+Price: 500
